@@ -1,0 +1,60 @@
+<html>
+<center>
+     <head>
+          <title>My welcome to aws training in hyd </title>
+     </head>
+     <body>
+          Hello World
+     </body>
+     </head>
+     <body>
+           order
+     </body>
+     </head>
+         payments
+</html>
+
+
+
+-----------
+
+<html>
+<center>
+     <head>
+          <title>My welcome to aws training in hyd </title>
+     </head>
+     <body>
+          Hello amazon
+     </body>
+     </head>
+     <body>
+           payments
+     </body>
+     </head>
+         delivaries
+</html>
+-----------
+
+<html>
+<center>
+     <head>
+          <title>My welcome to aws training in hyd </title>
+     </head>
+     <body>
+          Hello filpkart
+     </body>
+     </head>
+     <body>
+           deliveries
+     </body>
+     </head>
+         orders
+</html>
+
+
+
+
+
+
+
+
